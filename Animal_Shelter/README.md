@@ -57,6 +57,15 @@ The Followings show the visuals created using Power BI:
 ### Time at Shelter
 ![Time at Shelter](images/TimeAtShelter.JPG)
 
+### Breed
+![Breed](images/Breed.JPG)
+
+### Date & Time
+![Date & Time](images/DateTime.JPG)
+
+### Key Influencers
+![Key Influencers](images/KeyInfluencers.JPG)
+
 ## 7. Analysis Examples
 Here are a few examples of how you might analyze this dataset:
 

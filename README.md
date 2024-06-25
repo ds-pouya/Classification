@@ -2,10 +2,10 @@
 Welcome to the Classification Projects Repository! This repository hosts various projects related to classification analysis and machine learning.
 
 ## Projects
-### Project 1: [Adoption vs. Euthanization using Random Forest](Animal_Shelter/AnimalShelter.ipynb)
+### Project 1: [Adoption vs. Euthanization using Random Forest](Animal_Shelter/AnimalShelter.ipynb) + Power BI Dashboard
 - Predicting the Decision to Adopt vs. Euthanize animals in an Animal Shelter
 - Determining Feature Importance
-- You can find more [here](Animal_Shelter/README.md)
+- You can find out more [here](Animal_Shelter/README.md)
 
 ## Dependencies required to run the projects.
 ### Python Libraries
