@@ -1,4 +1,4 @@
-# Predicting the Sale Price of Bulldozers using Machine Learning
+# Adoption vs. Euthanization using Random Forest
 > This dataset has been created to analyze and determine the factors that contribute to an animal being euthanized or adopted in an animal shelter. The goal is to provide insights that can help improve adoption rates and reduce euthanasia rates by understanding the key attributes that influence these outcomes.
 
 ## 1. Problem defition
